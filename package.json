@@ -1,0 +1,15 @@
+{
+  "name": "sri-vanjith-portfolio",
+  "version": "1.0.0",
+  "description": "Sri Vanjith T — Portfolio Website",
+  "scripts": {
+    "start": "npx serve . -l 5500",
+    "dev": "npx serve . -l 5500"
+  },
+  "dependencies": {
+    "firebase": "^12.14.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
